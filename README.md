@@ -26,7 +26,7 @@ gcc -Wall -Wextra -pedantic -g -o task task.c
 Hello world!
 ```
 
-## 🧠 Перевірка через Valgrind
+## Перевірка через Valgrind
 
 ```bash
 valgrind --leak-check=full ./task
